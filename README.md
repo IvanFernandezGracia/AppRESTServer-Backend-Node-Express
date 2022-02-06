@@ -15,6 +15,8 @@ BLABLABLALABLALABLALBABL
 ## Carga y Proteccion de Archivos 
 ## Postman 
 
+## Structure fdolders 
+
 <!-- Tech -->
 ## Skills
 <table>
@@ -22,8 +24,8 @@ BLABLABLALABLALABLALBABL
     <tr>
       <th align="center">WebServer</th>
       <th align="center">Config init RESTServer</th>  
-      <th align="center">Skills</th>      
-      <th align="center">Skills</th>           
+      <th align="center">ErrorHandler&Password</th>      
+      <th align="center">DataBase MongoDB </th>      
     </tr>
     <td>
         <ul>
@@ -65,6 +67,72 @@ BLABLABLALABLALABLALBABL
           <li>Enviroment Postman {{var}}</li>
           <li>Postman Code Request </li>
           <li>Parseo Body .Json</li>
+        </ul>
+     </td>
+     <td>
+        <ul>
+          <li>{response,request}=("express")</li>
+          <li>Middelare handleErrors</li>
+          <li>(err, req, res, next)=>{resp or next()}</li>
+          <li>require("http-errors");</li>
+          <li>Try-catch into controller</li>
+          <li>ParseJwt base64</li>
+          <li>crypt password</li>
+          <li>bcryptjs .hashSync</li>
+        </ul>
+     </td>
+     <td>
+        <ul>
+          <li>ODM: Mongoose</li>
+          <li>Config DataBase Mongo</li>
+          <li>Mongo Atlas</li>
+          <li>Mongo DB Compass</li>
+          <li>Schema Mongoose</li>
+          <li>Schema.methods.toJSON</li>
+          <li>Schema.findOne</li>
+          <li>Schema.findById</li>
+          <li>Schema.countDocuments</li>
+          <li>Schema.find(query)</li>
+          <li>Schema.skip.limit</li>
+          <li>Schema.limit</li>
+          <li>Schema.save()</li>
+          <li>Schema.findByIdAndUpdate</li>
+          <li>Delete Property Schema</li>
+          <li>Promise all [Scheme.method()]</li>
+        </ul>
+     </td>
+  </tbody>
+</table>
+<table>
+  <tbody>
+     <tr>
+      <th align="center">Validations Request</th>           
+      <th align="center">Skills</th>  
+      <th align="center">Skills</th>      
+      <th align="center">Skills</th>           
+    </tr>
+    <td>
+        <ul>
+          <li>Express-validator</li>
+          <li>Role Validate</li>
+          <li>Schema ID Exist Validate DB</li>
+          <li>check()</li>
+          <li>check().custom</li>
+          <li>check().isMongoId()</li>
+          <li>check().not().isEmpty()</li>
+          <li>check().isLength</li>
+          <li>check().isEmail()</li>
+          <li>throw new Error('msg')</li>
+        </ul>
+     </td>    
+     <td>
+         <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
         </ul>
      </td>
      <td>
@@ -139,7 +207,6 @@ BLABLABLALABLALABLALBABL
      </td>
   </tbody>
 </table>
-
 <!-- CONTACT -->
 ## Contact
 Ivan Alejandro Fernandez Gracia  
