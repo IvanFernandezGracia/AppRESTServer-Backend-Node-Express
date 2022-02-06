@@ -21,35 +21,102 @@ BLABLABLALABLALABLALBABL
   <tbody>
     <tr>
       <th align="center">Skills</th>
+      <th align="center">Skills</th>  
       <th align="center">Skills</th>      
+      <th align="center">Skills</th>           
     </tr>
-        <td>
+    <td>
         <ul>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
         </ul>
-      </td>    
-        <td>
+     </td>    
+     <td>
+         <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>
+     <td>
         <ul>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
         </ul>
-      </td>
-        <td>
+     </td>
+     <td>
         <ul>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
         </ul>
-      </td>
+     </td>
   </tbody>
 </table>
-
+<table>
+  <tbody>
+     <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>  
+      <th align="center">Skills</th>      
+      <th align="center">Skills</th>           
+    </tr>
+    <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>    
+     <td>
+         <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>
+     <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>
+     <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>
+  </tbody>
+</table>
 
 <!-- CONTACT -->
 ## Contact
