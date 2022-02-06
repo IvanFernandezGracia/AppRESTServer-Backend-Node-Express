@@ -1,12 +1,19 @@
-# AppRESTServer
+# App RESTServer
 
-Node-Inquirer-Yargs
+BLABLABLALABLALABLALBABL
 
 ## Photo
-
-
 ## Video 
 
+## Postman 
+## WebServer - http express HBS
+## RestServer Config 
+## Logic Usuarios 
+## JWT 
+## Google Sign in 
+## Logic Categoria & Productos 
+## Carga y Proteccion de Archivos 
+## Postman 
 
 <!-- Tech -->
 ## Skills
