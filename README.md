@@ -93,7 +93,7 @@ BLABLABLALABLALABLALBABL
           <li>Schema.findById</li>
           <li>Schema.countDocuments</li>
           <li>Schema.find(query)</li>
-          <li>Schema.skip.limit</li>
+          <li>Schema.skip</li>
           <li>Schema.limit</li>
           <li>Schema.save()</li>
           <li>Schema.findByIdAndUpdate</li>
@@ -107,8 +107,8 @@ BLABLABLALABLALABLALBABL
   <tbody>
      <tr>
       <th align="center">Validations Request</th>           
-      <th align="center">Skills</th>  
-      <th align="center">Skills</th>      
+      <th align="center">JWT</th>  
+      <th align="center">Google Sign In</th>      
       <th align="center">Skills</th>           
     </tr>
     <td>
