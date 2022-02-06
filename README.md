@@ -21,7 +21,7 @@ BLABLABLALABLALABLALBABL
   <tbody>
     <tr>
       <th align="center">WebServer</th>
-      <th align="center">Skills</th>  
+      <th align="center">Config init RESTServer</th>  
       <th align="center">Skills</th>      
       <th align="center">Skills</th>           
     </tr>
@@ -30,7 +30,7 @@ BLABLABLALABLALABLALBABL
           <li>HTTP Server</li>
           <li>Front content static</li>
           <li>Config Express</li>
-          <li>Router Express CRUD</li>
+          <li>Router Express CRUD Structure</li>
           <li>Request & Response</li>
           <li>req.body</li>
           <li>req.params</li>
@@ -49,12 +49,22 @@ BLABLABLALABLALABLALBABL
      </td>    
      <td>
          <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>npm init -Y</li>
+          <li>Logic Class</li>
+          <li>Port Listener</li>
+          <li>Middelware(use)</li>
+          <li>GET - PUT - POST - DELETE</li>
+          <li>Code Response res.status(XXX)</li>
+          <li>res.json({})</li>
+          <li>res.send(file)</li>
+          <li>CORS Middleware</li>
+          <li>Folder controller & router</li>
+          <li>Params & Query in router</li>
+          <li>POST Postman: raw - json</li>
+          <li>Git tag- release</li>
+          <li>Enviroment Postman Production {{var}}</li>
+          <li>Postman all Code Language Request </li>
+          <li>Parseo Body use(express.json())</li>
         </ul>
      </td>
      <td>
