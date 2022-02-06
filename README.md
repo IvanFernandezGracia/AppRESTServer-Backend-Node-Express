@@ -62,9 +62,9 @@ BLABLABLALABLALABLALBABL
           <li>Params & Query in router</li>
           <li>POST Postman: raw - json</li>
           <li>Git tag- release</li>
-          <li>Enviroment Postman Production {{var}}</li>
-          <li>Postman all Code Language Request </li>
-          <li>Parseo Body use(express.json())</li>
+          <li>Enviroment Postman {{var}}</li>
+          <li>Postman Code Request </li>
+          <li>Parseo Body .Json</li>
         </ul>
      </td>
      <td>
