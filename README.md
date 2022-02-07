@@ -96,6 +96,11 @@ BLABLABLALABLALABLALBABL
           <li>Schema.findByIdAndUpdate</li>
           <li>Delete Property Schema</li>
           <li>Promise all [Scheme.method()]</li>
+          <li>Relations between Schemas</li>
+          <li>Schema.Types.ObjectId</li>
+          <li>Search</li>
+          <li>.populate("Schema", "Prop")</li>
+          <li>ObjectId.isValid(idMongo?)</li>
         </ul>
      </td>
   </tbody>
@@ -106,7 +111,6 @@ BLABLABLALABLALABLALBABL
       <th align="center">Validations Request</th>           
       <th align="center">JWT</th>  
       <th align="center">Google Sign In</th>      
-      <th align="center">Skills</th>           
     </tr>
     <td>
         <ul>
@@ -164,43 +168,24 @@ BLABLABLALABLALABLALBABL
           <li>signOut()</li>
         </ul>
      </td>
-     <td>
-        <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-        </ul>
-     </td>
   </tbody>
 </table>
 <table>
   <tbody>
      <tr>
-      <th align="center">Skills</th>
+      <th align="center">Logic Model Class</th>
       <th align="center">Skills</th>  
       <th align="center">Skills</th>      
       <th align="center">Skills</th>           
     </tr>
     <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>CRUD categorías</li>
+          <li>CRUD productos</li>
+          <li>Relation U-C-P</li>
+          <li>RegExp</li>
+          <li>Switch</li>
+          <li>Search CRUD</li>
         </ul>
      </td>    
      <td>
