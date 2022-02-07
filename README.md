@@ -6,10 +6,7 @@ BLABLABLALABLALABLALBABL
 ## Video 
 
 ## Postman 
-## Google Sign in 
-## Logic Categoria & Productos 
-## Carga y Proteccion de Archivos 
-## Postman 
+
 
 ## Structure fdolders 
 
@@ -174,9 +171,8 @@ BLABLABLALABLALABLALBABL
   <tbody>
      <tr>
       <th align="center">Logic Model Class</th>
-      <th align="center">Skills</th>  
-      <th align="center">Skills</th>      
-      <th align="center">Skills</th>           
+      <th align="center">Upload Files</th>  
+      <th align="center">Heroku</th>      
     </tr>
     <td>
         <ul>
@@ -185,7 +181,7 @@ BLABLABLALABLALABLALBABL
           <li>Relation U-C-P</li>
           <li>RegExp</li>
           <li>Switch</li>
-          <li>Search CRUD</li>
+          <li>Search DB</li>
         </ul>
      </td>    
      <td>
@@ -199,72 +195,12 @@ BLABLABLALABLALABLALBABL
         </ul>
      </td>
      <td>
-        <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-        </ul>
-     </td>
-     <td>
-        <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-        </ul>
-     </td>
-  </tbody>
-</table>
-<table>
-  <tbody>
-     <tr>
-      <th align="center">Heroku</th>
-      <th align="center">Heroku</th>  
-      <th align="center">Heroku</th>      
-      <th align="center">Heroku</th>           
-    </tr>
-    <td>
         <ul>
           <li>Git + Heroku Deploy</li>
           <li>Heroku CLI</li>
           <li>Config set .env</li>
           <li>logs -h 100 --tail</li>
           <li>Console Heroku</li>
-          <li>Context</li>
-        </ul>
-     </td>    
-     <td>
-         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-        </ul>
-     </td>
-     <td>
-        <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-        </ul>
-     </td>
-     <td>
-        <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
           <li>Context</li>
         </ul>
      </td>
