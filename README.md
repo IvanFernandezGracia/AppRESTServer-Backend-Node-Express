@@ -1,16 +1,8 @@
 # App RESTServer
+Rest server that allows to make a CRUD of users, categories and products. Users are authenticated from mongo db and Google Sign in. Requests are authorized through JWT. Implements file upload to mongoDB and images to cloudinary. Node, Express, ErrorHandler, encrypted passwords, MongoDB, ODM Mongoose, Request Validation, Logic Class ES6 Models and heroko deploy are used.
 
-BLABLABLALABLALABLALBABL
-
-## Postman
-CRUD Auth
-https://documenter.getpostman.com/view/12007714/UVXqEske 
-CRUD Usuarios
-https://documenter.getpostman.com/view/12007714/UVXqEskc
-CRUD Categorias
-https://documenter.getpostman.com/view/12007714/UVeGs6YQ
-CRUD Uploads
-https://documenter.getpostman.com/view/12007714/UVeGs6co
+## DataBase
+![WhatsApp Image 2022-02-07 at 00 18 06](https://user-images.githubusercontent.com/48660555/152719177-9ade9d6a-46b7-49be-a608-fdc0e6f22243.jpeg)
 
 ## Structure Folder Project 
 ![image](https://user-images.githubusercontent.com/48660555/152716159-897ce751-6f23-4364-bcb4-5bb5a8325251.png)
@@ -226,6 +218,16 @@ https://documenter.getpostman.com/view/12007714/UVeGs6co
      </td>
   </tbody>
 </table>
+
+## Postman
+CRUD Auth  
+https://documenter.getpostman.com/view/12007714/UVXqEske   
+CRUD Usuarios  
+https://documenter.getpostman.com/view/12007714/UVXqEskc  
+CRUD Categorias  
+https://documenter.getpostman.com/view/12007714/UVeGs6YQ  
+CRUD Uploads  
+https://documenter.getpostman.com/view/12007714/UVeGs6co  
 
 <!-- CONTACT -->
 ## Contact
