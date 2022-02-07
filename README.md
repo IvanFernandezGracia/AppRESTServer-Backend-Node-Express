@@ -4,6 +4,11 @@ Rest server that allows to make a CRUD of users, categories and products. Users 
 ## DataBase
 ![WhatsApp Image 2022-02-07 at 00 18 06](https://user-images.githubusercontent.com/48660555/152719177-9ade9d6a-46b7-49be-a608-fdc0e6f22243.jpeg)
 
+## Tech
+<img src="https://user-images.githubusercontent.com/48660555/152720019-a609ac81-4e28-4925-9fe9-988aaac74646.jpg" width=30% > <img src="https://user-images.githubusercontent.com/48660555/152720020-5187273c-a935-4b9b-ba9f-6b3a39513e71.png" width=30% > <img src="https://user-images.githubusercontent.com/48660555/152720022-fd19e8dc-5d65-46c8-933f-ee15c2ad10df.png" width=30% > <img src="https://user-images.githubusercontent.com/48660555/152720024-4f08b989-fa50-4a4d-a6c0-030489911ca2.png" width=30% >
+
+
+
 ## Structure Folder Project 
 ![image](https://user-images.githubusercontent.com/48660555/152716159-897ce751-6f23-4364-bcb4-5bb5a8325251.png)
 
