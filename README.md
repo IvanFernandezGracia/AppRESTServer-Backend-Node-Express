@@ -78,7 +78,8 @@ BLABLABLALABLALABLALBABL
           <li>Try-catch into controller</li>
           <li>ParseJwt base64</li>
           <li>crypt password</li>
-          <li>bcryptjs .hashSync</li>
+          <li>bcryptjs.hashSync</li>
+          <li>bcryptjs.compareSync</li>
         </ul>
      </td>
      <td>
@@ -122,7 +123,122 @@ BLABLABLALABLALABLALBABL
           <li>check().not().isEmpty()</li>
           <li>check().isLength</li>
           <li>check().isEmail()</li>
-          <li>throw new Error('msg')</li>
+          <li>Validate only role</li>
+          <li>Validate multiple roles</li>
+        </ul>
+     </td>    
+     <td>
+         <ul>
+          <li>Route Login(Auth)</li>
+          <li>Protection routes whit Token</li>
+          <li>Read Payload</li>
+          <li>LocalStorage</li>
+          <li>SesionStorage</li>
+          <li>jwt.io</li>
+          <li>npm json web token</li>
+          <li>uid identificate db</li>
+          <li>Secret private key</li>
+          <li>Validate JWT Backend</li>
+          <li>jwt.verify(TOKEN,PRIVKEY)</li>
+          <li>req.header("name")</li>
+          <li>Middleware : req=>req=>req</li>
+          <li>index.js (optimizate code)</li>
+          <li>Structure JWT</li>
+          <li>{header,payload,signature}</li>
+          <li>Parse JWT</li>
+          <li>Generate Jwt Primise</li>
+          <li>jwt.sign(pl,pk,[opt,call])</li>
+          <li>Middleware validarJWT</li>
+        </ul>
+     </td>
+     <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>
+     <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+        </ul>
+     </td>
+  </tbody>
+</table>
+<table>
+  <tbody>
+     <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>  
+      <th align="center">Skills</th>      
+      <th align="center">Skills</th>           
+    </tr>
+    <td>
+        <ul>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
+          <li>Context</li>
         </ul>
      </td>    
      <td>
@@ -160,18 +276,18 @@ BLABLABLALABLALABLALBABL
 <table>
   <tbody>
      <tr>
-      <th align="center">Skills</th>
-      <th align="center">Skills</th>  
-      <th align="center">Skills</th>      
-      <th align="center">Skills</th>           
+      <th align="center">Heroku</th>
+      <th align="center">Heroku</th>  
+      <th align="center">Heroku</th>      
+      <th align="center">Heroku</th>           
     </tr>
     <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>Git + Heroku Deploy</li>
+          <li>Heroku CLI</li>
+          <li>Config set .env</li>
+          <li>logs -h 100 --tail</li>
+          <li>Console Heroku</li>
           <li>Context</li>
         </ul>
      </td>    
