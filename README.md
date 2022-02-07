@@ -6,10 +6,6 @@ BLABLABLALABLALABLALBABL
 ## Video 
 
 ## Postman 
-## WebServer - http express HBS
-## RestServer Config 
-## Logic Usuarios 
-## JWT 
 ## Google Sign in 
 ## Logic Categoria & Productos 
 ## Carga y Proteccion de Archivos 
@@ -153,37 +149,19 @@ BLABLABLALABLALABLALBABL
      </td>
      <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>Google SignIn Front-Back</li>
+          <li>Google Identify Service</li>
+          <li>API Key de Google</li>
+          <li>API Secret Google</li>
+          <li>Validation token google</li>
+          <li>Oauth2.0</li>
+          <li>google-auth-library</li>
+          <li>Property token google</li>
+          <li>googleVerify(id_token)</li>
+          <li>Router google</li>
+          <li>onSignIn(googleUser)</li>
+          <li>googleUser.getAuthResponse().id_token</li>
+          <li>signOut()</li>
         </ul>
      </td>
      <td>
