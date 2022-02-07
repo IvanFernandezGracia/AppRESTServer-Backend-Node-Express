@@ -9,7 +9,8 @@ BLABLABLALABLALABLALBABL
 ## Swager 
 
 
-## Structure fdolders 
+## Structure Folder Project 
+![image](https://user-images.githubusercontent.com/48660555/152716159-897ce751-6f23-4364-bcb4-5bb5a8325251.png)
 
 <!-- Tech -->
 ## Skills
@@ -218,11 +219,11 @@ BLABLABLALABLALABLALBABL
           <li>Config set .env</li>
           <li>logs -h 100 --tail</li>
           <li>Console Heroku</li>
-          <li>Context</li>
         </ul>
      </td>
   </tbody>
 </table>
+
 <!-- CONTACT -->
 ## Contact
 Ivan Alejandro Fernandez Gracia  
