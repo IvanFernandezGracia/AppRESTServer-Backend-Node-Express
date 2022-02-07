@@ -22,10 +22,10 @@ const router = Router();
  * {{url}}/api/categorias
  */
 
-//  Obtener todas las categorias - publico
+//  Obtener todos los productos - publico
 router.get("/", obtenerProductos);
 
-// Obtener una categoria por id - publico
+// Obtener un producto por id - publico
 router.get(
   "/:id",
   [
@@ -36,7 +36,7 @@ router.get(
   obtenerProducto
 );
 
-// Crear categoria - privado - cualquier persona con un token válido
+// Crear producto - privado - cualquier persona con un token válido
 router.post(
   "/",
   [
@@ -61,7 +61,7 @@ router.put(
   actualizarProducto
 );
 
-// Borrar una categoria - Admin
+// Borrar un producto - Admin
 router.delete(
   "/:id",
   [

@@ -56,9 +56,9 @@ const actualizarCategoria = async (req, res = response) => {
   const { estado, usuario, ...data } = req.body;
 
   data.nombre = data.nombre.toUpperCase();
-  data.usuario = req.usuario._id;
+  data.usuario = req.usuario._id; // id del usuario dueño del token que lo esta actualizando
 
-  const categoria = await Categoria.findByIdAndUpdate(id, data, { new: true });
+  const categoria = await Categoria.findByIdAndUpdate(id, data, { new: true }); // mandar doc actualizado
 
   res.json(categoria);
 };

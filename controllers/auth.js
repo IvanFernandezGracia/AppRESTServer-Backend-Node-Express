@@ -66,7 +66,7 @@ const googleSignin = async (req, res = response) => {
       const data = {
         nombre,
         correo,
-        password: ":P",
+        password: "googleAuth", // no importa porque esta el bcrypt pero necesario para Usiario Model
         img,
         google: true,
       };

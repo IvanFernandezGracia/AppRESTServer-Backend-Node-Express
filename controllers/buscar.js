@@ -8,6 +8,7 @@ const coleccionesPermitidas = ["usuarios", "categorias", "productos", "roles"];
 const buscarUsuarios = async (termino = "", res = response) => {
   const esMongoID = ObjectId.isValid(termino); // TRUE
 
+  // Buscar por ID
   if (esMongoID) {
     const usuario = await Usuario.findById(termino);
     return res.json({
@@ -15,6 +16,7 @@ const buscarUsuarios = async (termino = "", res = response) => {
     });
   }
 
+    // Buscar por Property
   const regex = new RegExp(termino, "i");
   const usuarios = await Usuario.find({
     $or: [{ nombre: regex }, { correo: regex }],
@@ -28,6 +30,7 @@ const buscarUsuarios = async (termino = "", res = response) => {
 
 const buscarCategorias = async (termino = "", res = response) => {
   const esMongoID = ObjectId.isValid(termino); // TRUE
+
 
   if (esMongoID) {
     const categoria = await Categoria.findById(termino);
