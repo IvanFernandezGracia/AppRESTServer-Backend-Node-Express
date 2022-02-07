@@ -67,7 +67,7 @@ class Server {
   }
 
   handleErrors() {
-    this.app.use(this.usuariosPath, function (err, req, res, next) {
+    this.app.use("/", function (err, req, res, next) {
       if (err) {
         const statusResponse = err.status || 500;
         res.status(statusResponse);
