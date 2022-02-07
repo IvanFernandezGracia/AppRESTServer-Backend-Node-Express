@@ -2,12 +2,15 @@
 
 BLABLABLALABLALABLALBABL
 
-## Photo
-## Video 
-
-## Postman 
-## Swager 
-
+## Postman
+CRUD Auth
+https://documenter.getpostman.com/view/12007714/UVXqEske 
+CRUD Usuarios
+https://documenter.getpostman.com/view/12007714/UVXqEskc
+CRUD Categorias
+https://documenter.getpostman.com/view/12007714/UVeGs6YQ
+CRUD Uploads
+https://documenter.getpostman.com/view/12007714/UVeGs6co
 
 ## Structure Folder Project 
 ![image](https://user-images.githubusercontent.com/48660555/152716159-897ce751-6f23-4364-bcb4-5bb5a8325251.png)
