@@ -6,6 +6,7 @@ BLABLABLALABLALABLALBABL
 ## Video 
 
 ## Postman 
+## Swager 
 
 
 ## Structure fdolders 
@@ -186,13 +187,29 @@ BLABLABLALABLALABLALBABL
      </td>    
      <td>
          <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-        </ul>
+          <li>File Upload</li>
+          <li>File validations</li>
+          <li>Relocate files</li>
+          <li>Update user photo</li>
+          <li>Delete files</li>
+          <li>Display images</li>
+          <li>Protect  images</li>
+          <li>Middleware resp.file</li>
+          <li>Folder Uploads Server</li>
+          <li>Validation extension</li>
+          <li>uuid library</li>
+          <li>Image Default (static)</li>
+          <li>app.use.fileUpload()</li>
+          <li>require("path")</li>
+          <li>require("fs")</li>
+          <li>Cloudinary</li>
+          <li>require("cloudinary").v2</li>
+          <li>CLOUDINARY_URL</li>
+          <li>cloudinary.uploader.upload</li>
+          <li>tempFilePath</li>
+          <li>secure_url</li>
+          <li>fie.mv</li>
+       </ul>
      </td>
      <td>
         <ul>
