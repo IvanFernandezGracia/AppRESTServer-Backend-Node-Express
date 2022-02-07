@@ -47,6 +47,7 @@ router.post(
     check("correo", "El correo no es válido").isEmail(),
     check("correo").custom(emailExiste),
     // check('rol', 'No es un rol válido').isIn(['ADMIN_ROLE','USER_ROLE']),
+    // Impedir que front cambie el rol a ADMIN
     check("rol").custom(esRoleValido),
     validarCampos,
   ],

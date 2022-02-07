@@ -1,6 +1,10 @@
 const Role = require("../models/role");
 const { Usuario, Categoria, Producto } = require("../models");
 
+/**
+ * Usuario
+ */
+
 const esRoleValido = async (rol = "") => {
   const existeRol = await Role.findOne({ rol });
   if (!existeRol) {

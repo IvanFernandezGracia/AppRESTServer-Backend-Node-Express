@@ -3,6 +3,7 @@ const cors = require("cors");
 const fileUpload = require("express-fileupload");
 
 const { dbConnection } = require("../database/config");
+var createError = require("http-errors");
 
 class Server {
   constructor() {
@@ -26,6 +27,9 @@ class Server {
 
     // Rutas de mi aplicación
     this.routes();
+
+    // Manejo de Errores (Debe estar de los ultimos porque no contiene NEXT)
+    this.handleErrors();
   }
 
   async conectarDB() {
@@ -37,6 +41,7 @@ class Server {
     this.app.use(cors());
 
     // Lectura y parseo del body
+    // Cualquier request del front en el body la va intentar serealizar en .json
     this.app.use(express.json());
 
     // Directorio Público
@@ -59,6 +64,22 @@ class Server {
     this.app.use(this.paths.productos, require("../routes/productos"));
     this.app.use(this.paths.usuarios, require("../routes/usuarios"));
     this.app.use(this.paths.uploads, require("../routes/uploads"));
+  }
+
+  handleErrors() {
+    this.app.use(this.usuariosPath, function (err, req, res, next) {
+      if (err) {
+        const statusResponse = err.status || 500;
+        res.status(statusResponse);
+        res.json({
+          name: err.name || "Server Error",
+          message: err.message || "",
+          status: statusResponse,
+        });
+      } else {
+        next();
+      }
+    });
   }
 
   listen() {

@@ -1,5 +1,15 @@
 const { Schema, model } = require("mongoose");
 
+// {
+//   nombre: "ivan";
+//   correo: "ivan.fern.g@usach.cl";
+//   password: "1234123123";
+//   img: "wdadasdadwdawdaw";
+//   rol: "ADMIN_ROLE";
+//   estado: true;
+//   google: true;
+// }
+
 const UsuarioSchema = Schema({
   nombre: {
     type: String,
