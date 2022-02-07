@@ -160,28 +160,12 @@ BLABLABLALABLALABLALBABL
           <li>googleVerify(id_token)</li>
           <li>Router google</li>
           <li>onSignIn(googleUser)</li>
-          <li>googleUser.getAuthResponse().id_token</li>
+          <li>.getAuthResponse().id_token</li>
           <li>signOut()</li>
         </ul>
      </td>
      <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
           <li>Context</li>
           <li>Context</li>
           <li>Context</li>
